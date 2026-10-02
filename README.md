@@ -37,7 +37,7 @@ QSkill_Project_2_Matrix_Operations/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Neha-maurya114/QSkill_Project_2_Matrix_Operations.git
+git clone https://github.com/Neha-maurya114/QSkill-Project-2.git
 ```
 
 ### 2. Open the project folder
